@@ -1,0 +1,6 @@
+digraph{
+
+test -> x
+test2 -> x
+
+}
